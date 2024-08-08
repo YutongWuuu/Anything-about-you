@@ -1,5 +1,6 @@
 # Anything-about-you
-![FRT   Human Right(after)](https://git.arts.ac.uk/storage/user/862/files/da495033-7ba2-4afb-b752-45cbc26ebfda)
+![da495033-7ba2-4afb-b752-45cbc26ebfda](https://github.com/user-attachments/assets/826d0d81-4d76-4cb0-ac64-f3ac47566f48)
+
 
 
 Big Brother Watch reveals that the government (not only in the UK) is taking ‘faceprints’ of millions of people for facial recognition. It seems that even we are the owner of our face, we can’t totally control where our facial data go. 
@@ -8,8 +9,7 @@ When Facial Recognition Technology (FRT) scan a face, it doesn’t record it as 
 
 Pressing the button, just like wiping a mirror. An alert “I am vast and complex” bumped out, the real self without any embellish appears, which is vivid and complex. 
 
-
-![Screenshot](https://git.arts.ac.uk/storage/user/862/files/20a7dd20-361d-48d6-bacf-caa9d6ba2a2a)
+![20a7dd20-361d-48d6-bacf-caa9d6ba2a2a](https://github.com/user-attachments/assets/7e3c41d7-f56f-415d-a9e0-d3f004148ed3)
 
 
 
